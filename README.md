@@ -60,8 +60,7 @@
    * ...
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/CodePath-Android-Development-Group-8/YourAnimeList/blob/main/wireframe.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
