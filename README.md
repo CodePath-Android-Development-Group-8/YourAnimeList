@@ -67,7 +67,7 @@
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
+
 ### Models
 | Property      | Type          | Description  |
 | ------------- |:-------------:| -----:|
