@@ -72,8 +72,12 @@
 | Property      | Type          | Description  |
 | ------------- |:-------------:| -----:|
 | picture      | File | picture of anime |
+| animeTitle      | String | name of anime |
+| epTitle      | String | name of episode |
 | synopsis      | String      |   summary of anime/episode |
-| zebra stripes | are neat      |    $1 |
+| released | DateTime      |    date animme/episode released |
+| rating | number      |    rating for anime |
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
