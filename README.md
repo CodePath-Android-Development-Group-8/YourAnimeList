@@ -69,7 +69,7 @@
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-| Tables        | Are           | Cool  |
+| Property      | Type          | Description  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
