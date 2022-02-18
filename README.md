@@ -71,8 +71,8 @@
 ### Models
 | Property      | Type          | Description  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| picture      | File | picture of anime |
+| synopsis      | String      |   summary of anime/episode |
 | zebra stripes | are neat      |    $1 |
 ### Networking
 - [Add list of network requests by screen ]
