@@ -75,7 +75,7 @@
 | animeTitle      | String | name of anime |
 | epTitle      | String | name of episode |
 | synopsis      | String      |   summary of anime/episode |
-| released | DateTime      |    date animme/episode released |
+| released | DateTime      |    date anime/episode released |
 | rating | number      |    rating for anime |
 
 ### Networking
