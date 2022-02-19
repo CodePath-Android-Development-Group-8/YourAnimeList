@@ -79,6 +79,11 @@
 | rating | number      |    rating for anime |
 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+##### MyAnimeListAPI
+- Base URL - [https://myanimelist.net/apiconfig/references/api/v2](https://myanimelist.net/apiconfig/references/api/v2)
+
+   HTTP Verb | Endpoint | Description
+   ----------|----------|------------
+    `GET`    | /anime | get all anime
+    `GET`    | /anime/?name=name | return specific details for anime
+
