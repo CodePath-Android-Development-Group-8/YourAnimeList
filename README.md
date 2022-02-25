@@ -39,7 +39,10 @@
 - [ ] User can set a profile picture
 - [ ] User can change their username
 
+### Walkthroughs
+Sprint 1:
 
+<img src='login_walkthrough_youranimelist.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ### 2. Screen Archetypes
 
 * [list first screen here]
