@@ -31,16 +31,14 @@
 - [ ] User can rate anime on a scale of 1-10
 - [ ] User can delete anime from their list
 - [ ] User can search for anime using MyAnimeListAPI
-- [ ] User can set a profile picture
-- [ ] User can set a username
 - [ ] User can change the status of the anime (watching, completed, plan-on watching)
 - [ ] Have a navigation bar for separate tabs
 - [ ] Show a home screen of seasonal recommendation anime from MyAnimeListAPI
 
 **Optional Nice-to-have Stories**
+- [ ] User can set a profile picture
+- [ ] User can change their username
 
-* [fill in your required user stories here]
-* ...
 
 ### 2. Screen Archetypes
 
