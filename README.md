@@ -25,8 +25,17 @@
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+- [ ] User can create a profile with username and password through Back4App
+- [ ] User can sign out and log in
+- [ ] User can add anime to their list
+- [ ] User can rate anime on a scale of 1-10
+- [ ] User can delete anime from their list
+- [ ] User can search for anime using MyAnimeListAPI
+- [ ] User can set a profile picture
+- [ ] User can set a username
+- [ ] User can change the status of the anime (watching, completed, plan-on watching)
+- [ ] Have a navigation bar for separate tabs
+- [ ] Show a home screen of seasonal recommendation anime from MyAnimeListAPI
 
 **Optional Nice-to-have Stories**
 
