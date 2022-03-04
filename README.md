@@ -25,7 +25,7 @@
 
 **Required Must-have Stories**
 
-- [ ] User can create a profile with username and password through Back4App
+- [x] User can create a profile with username and password through Back4App
 - [ ] User can sign out and log in
 - [ ] User can add anime to their list
 - [ ] User can rate anime on a scale of 1-10
